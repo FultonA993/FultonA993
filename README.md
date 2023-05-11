@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am a recent honors graduate from Forsyth Technical Community College
-
+I am a recent honors graduate from Forsyth Technical Community College actively job searching.
+I believe that my skills and knowledge will make me an asset to any IT team!
 <!--
 **FultonA993/FultonA993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
